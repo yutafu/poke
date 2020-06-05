@@ -1,0 +1,16 @@
+
+#header{
+	background-color: #ccc;
+}
+.pull-left{
+	text-transform: capitalize;
+}
+.poke{
+	margin-top: 100px;
+}
+.poke>img{
+	width: 300px;
+}
+.packgi{
+	float: right;
+}
